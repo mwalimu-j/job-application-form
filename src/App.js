@@ -80,7 +80,7 @@ function App() {
         {currentPage === 1 && (
           <>
             <div>
-              <label htmlFor="fullName">Full Name:</label>
+              <label htmlFor="fullName">Enter Your Full Name:</label>
               <input
                 type="text"
                 id="fullName"
